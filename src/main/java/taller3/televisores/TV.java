@@ -40,7 +40,7 @@ public class TV {
     }
 
     public static void setNumTv(int numtv) {
-        NumTV = numtv;
+        numTV = numtv;
     }
     
     public Marca getMarca() {
