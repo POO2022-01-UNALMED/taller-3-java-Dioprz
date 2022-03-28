@@ -39,7 +39,7 @@ public class TV {
         }
     }
 
-    public static void setNumTv(int numtv) {
+    public static void setNumTV(int numtv) {
         numTV = numtv;
     }
     
@@ -63,7 +63,7 @@ public class TV {
         return canal;
     }
 
-    public static int getNumTv() {
+    public static int getNumTV() {
         return numTV;
     }
 
